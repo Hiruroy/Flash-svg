@@ -9,14 +9,15 @@ body {
   height: 100vh;
   display: grid;
   place-content: center;
+  background-color: rgb(230, 230, 230);
 }
 .card {
   position: relative;
-  width: 300px;
-  height: 200px;
+  /* width: 300px; */
+  /* height: 200px; */
   color: black;
 
-  color: red;
+  color: #f00707;
 }
 
 .card .hroizontal span {
