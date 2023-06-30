@@ -9,7 +9,7 @@ body {
   height: 100vh;
   display: grid;
   place-content: center;
-  background-color: rgb(230, 230, 230);
+  background-color: rgb(5, 3, 3);
 }
 .card {
   position: relative;
